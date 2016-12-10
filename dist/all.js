@@ -1,0 +1,1 @@
+function hello(){console.log(1)}hello(),console.log("my name ");

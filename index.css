@@ -1,0 +1,9 @@
+body{
+    background-color: #fff;
+}
+.demo{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    margin:auto;
+}
